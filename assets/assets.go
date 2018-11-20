@@ -65,11 +65,107 @@ var (
 		},
 		{
 			BuilderAsset: build.CreditAsset(
-				"XRP",
-				"GA7FCCMTTSUIC37PODEL6EOOSPDRILP6OQI5FWCWDDVDBLJV72W6RINZ",
+				"XCN",
+				"GCNY5OXYSY4FKHOPT2SPOQZAOEIGXB5LBYW3HVU3OWSTQITS65M5RCNY",
 			),
-			Domain:       "vcbear.net",
-			Instructions: "https://www.vcbear.net/signin",
+			Domain:       "fchain.io",
+			Instructions: "fchain.io",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"USD",
+				"GBSTRUSD7IRX73RQZBL3RQUH6KS3O4NYFY3QCALDLZD77XMZOPWAVTUK",
+			),
+			Domain:       "stronghold.co",
+			Instructions: "USD",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"USD",
+				"GDSRCV5VTM3U7Y3L6DFRP3PEGBNQMGOWSRTGSBWX6Z3H6C7JHRI4XFJP",
+			),
+			Domain:       "x.token.io",
+			Instructions: "",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"WSD",
+				"GDSVWEA7XV6M5XNLODVTPCGMAJTNBLZBXOFNQD3BNPNYALEYBNT6CE2V",
+			),
+			Domain:       "thewwallet.com",
+			Instructions: "thewwallet.com",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"HKDT",
+				"GABSZVZBYEO5F4V5LZKV7GR4SAJ5IKJGGOF43BIN42FNDUG7QPH6IMRQ",
+			),
+			Domain:       "cryptomover.com",
+			Instructions: "cryptomover.com",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"EURT",
+				"GAP5LETOV6YIE62YAM56STDANPRDO7ZFDBGSNHJQIYGGKSMOZAHOOS2S",
+			),
+			Domain:       "tempo.eu.com",
+			Instructions: "tempo.eu.com",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"BTC",
+				"GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
+			),
+			Domain:       "stronghold.co",
+			Instructions: "stronghold.co",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"BTC",
+				"GATEMHCCKCY67ZUCKTROYN24ZYT5GK4EQZ65JJLDHKHRUZI3EUEKMTCH",
+			),
+			Domain:       "naobtc.com",
+			Instructions: "naobtc.com",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"BTC",
+				"GAUTUYY2THLF7SGITDFMXJVYH3LHDSMGEAKSBU267M2K7A3W543CKUEF",
+			),
+			Domain:       "apay.io",
+			Instructions: "https://apay.io/",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"ETH",
+				"GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
+			),
+			Domain:       "stronghold.co",
+			Instructions: "stronghold.co",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"ETH",
+				"GBETHKBL5TCUTQ3JPDIYOZ5RDARTMHMEKIO2QZQ7IOZ4YC5XV3C2IKYU",
+			),
+			Domain:       "fchain.io",
+			Instructions: "fchain.io",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"XRP",
+				"GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+			),
+			Domain:       "stellarport.io",
+			Instructions: "stellarport.io",
+		},
+		{
+			BuilderAsset: build.CreditAsset(
+				"XRP",
+				"GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P",
+			),
+			Domain:       "interstellar.exchange",
+			Instructions: "interstellar.exchange",
 		},
 	}
 )
