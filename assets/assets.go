@@ -161,11 +161,12 @@ var (
 		},
 		{
 			BuilderAsset: build.CreditAsset(
-				"XRP",
-				"GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P",
+				"SPQR",
+				"GDGBLAE6EIE45E7WK2H7L2YBFPJBGOMYAM3IVJ4OKFQTZ643NJTHSWJS",
 			),
-			Domain:       "interstellar.exchange",
-			Instructions: "interstellar.exchange",
+			Domain:       "spqr.co",
+			Instructions: "https://spqr.co",
+			Type:         "token",
 		},
 	}
 )
